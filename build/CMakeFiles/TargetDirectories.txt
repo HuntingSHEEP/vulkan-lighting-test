@@ -1,0 +1,3 @@
+C:/Users/aglow/OneDrive/Dokumenty/STUDIA/Magisterskie/praca_dyplomowa/aplikacja_model_test/build/CMakeFiles/someApp.dir
+C:/Users/aglow/OneDrive/Dokumenty/STUDIA/Magisterskie/praca_dyplomowa/aplikacja_model_test/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/aglow/OneDrive/Dokumenty/STUDIA/Magisterskie/praca_dyplomowa/aplikacja_model_test/build/CMakeFiles/ZERO_CHECK.dir

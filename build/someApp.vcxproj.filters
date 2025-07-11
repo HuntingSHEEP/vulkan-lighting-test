@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\src\GameObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\src\GraphicsEngine\GridMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\src\GraphicsEngine\VulkanEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\src\Lighting\LightingScene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\src\MeshFilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\src\MeshRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\src\PGT\Maze.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\src\PGT\WystawaFractali.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\src\SIGK\DynamicSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\src\SIGK\GeneticAlgorithm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\src\SIGK\PointMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\src\TIO\BenchFunction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\include\Component.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\include\GameObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\include\GraphicsEngine\GetPointMatrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\include\GraphicsEngine\GridMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\include\GraphicsEngine\HelperStructures.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\include\GraphicsEngine\VkDraw.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\include\GraphicsEngine\VulkanEngine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\include\Lighting\LightingScene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\include\MeshFilter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\include\MeshRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\include\PGT\Maze.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\include\PGT\WystawaFractali.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\include\SIGK\DynamicSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\include\SIGK\GeneticAlgorithm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\include\SIGK\PointMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\include\TIO\BenchFunction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\include\TIO\prepareObjects.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\aglow\OneDrive\Dokumenty\STUDIA\Magisterskie\praca_dyplomowa\aplikacja_model_test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8C62A848-5074-3914-8415-34A69CF2ECD9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9534E41A-C939-3DAD-BEF6-2F2135B3EA2B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

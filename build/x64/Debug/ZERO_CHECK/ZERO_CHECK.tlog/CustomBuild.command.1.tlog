@@ -1,0 +1,10 @@
+^C:\USERS\AGLOW\ONEDRIVE\DOKUMENTY\STUDIA\MAGISTERSKIE\PRACA_DYPLOMOWA\APLIKACJA_MODEL_TEST\BUILD\CMAKEFILES\FC9F6514BDAC5480CB0F24FAB3443ECC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/aglow/OneDrive/Dokumenty/STUDIA/Magisterskie/praca_dyplomowa/aplikacja_model_test -BC:/Users/aglow/OneDrive/Dokumenty/STUDIA/Magisterskie/praca_dyplomowa/aplikacja_model_test/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/aglow/OneDrive/Dokumenty/STUDIA/Magisterskie/praca_dyplomowa/aplikacja_model_test/build/someApp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
